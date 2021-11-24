@@ -26,7 +26,7 @@
 23. 网格线
 24. 编辑器快照的另一种实现方式
 
-## 文档
+## 文档 - 可以借鉴一位前端大神的原理分析：
 * [可视化拖拽组件库一些技术要点原理分析](https://github.com/woai3c/Front-end-articles/issues/19)
 * [可视化拖拽组件库一些技术要点原理分析（二）](https://github.com/woai3c/Front-end-articles/issues/20)
 * [可视化拖拽组件库一些技术要点原理分析（三）](https://github.com/woai3c/Front-end-articles/issues/21)

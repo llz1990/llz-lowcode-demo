@@ -8,7 +8,7 @@
         @contextmenu="handleContextMenu"
         @mousedown="handleMouseDown"
     >
-        <!-- 网格线 -->
+        <!-- 网格线 作为背景墙-->
         <Grid />
 
         <!--页面组件列表展示-->
